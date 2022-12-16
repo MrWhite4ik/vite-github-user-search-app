@@ -12,5 +12,6 @@ Built with:
 <li>CSS Grid</li>
 <li>Mobile-first workflow</li>
 
-What i learned ?
+<li>What i learned ?</li>
+
 I learned that react-query is awesome when you need to fetch things that will not change depending on the user's input. In fact, I started a battle against react-query itself! Awesome tool, but use it with caution.
