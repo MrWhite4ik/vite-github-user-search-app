@@ -2,7 +2,7 @@
 #BitCamp reactor bootcamp challenge.
 
 Built with: 
-
+<ul>
 <li>React</li>
 <li>Typescript</li>
 <li>Styled Components</li>
@@ -11,6 +11,7 @@ Built with:
 <li>CSS Flexbox</li>
 <li>CSS Grid</li>
 <li>Mobile-first workflow</li>
+</ul>
 
 What i learned:
 
