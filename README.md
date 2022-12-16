@@ -3,11 +3,11 @@
 
 Built with: 
 
-React
-Typescript
-Styled Components
-Semantic HTML5 markup
-CSS custom properties
-CSS Flexbox
-CSS Grid
-Mobile-first workflow
+<li>React</li>
+<li>Typescript</li>
+<li>Styled Components</li>
+<li>Semantic HTML5 markup</li>
+<li>CSS custom properties</li>
+<li>CSS Flexbox</li>
+<li>CSS Grid</li>
+<li>Mobile-first workflow</li>
